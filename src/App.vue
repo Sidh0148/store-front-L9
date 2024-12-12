@@ -146,7 +146,7 @@ nav {
 ul {
   display: flex;
   list-style: none;
-  margin: 0;
+rgb(4, 97, 141)n: 0;
   padding: 0;
 }
 
