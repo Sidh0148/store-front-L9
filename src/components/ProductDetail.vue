@@ -54,7 +54,7 @@ export default {
 
 <style scoped>
 a {
-  color: #0000FF;
+  color: #0505be;
   text-decoration: underline;
 }
 
